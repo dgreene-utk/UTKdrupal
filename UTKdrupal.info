@@ -1,0 +1,3 @@
+name = 'UT Libraries Drupal 7'
+description = 'A local theme based heavily on Bartik created by Dan Greene.'
+package = '7.x'
