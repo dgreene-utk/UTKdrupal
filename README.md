@@ -2,4 +2,3 @@
 
 Notes on organization and usage 
 
-testing
