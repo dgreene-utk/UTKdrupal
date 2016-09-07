@@ -1,4 +1,4 @@
 name = UT Libraries Drupal 7
-description = A local theme based heavily on Bartik created by Dan Greene.
+description = A local theme based heavily on Bartik created by Dan Greene. Dan prefers sporks.
 core = 7.x
 engine = phptemplate
